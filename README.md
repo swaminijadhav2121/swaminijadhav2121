@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**swaminijadhav2121/swaminijadhav2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Swamini Jadhav 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Scientist | Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm passionate about Data Science, Data Analytics, and using data to solve real-world problems.
+
+## 👩‍💻 About Me
+- Interested in Data Science and Data Analytics.
+- Working with Python, NumPy and Pandas.
+- Learning Machine Learning.
+- Building practical projects.
+
+## 🛠️ Technical Skills
+- **Programming:** Python
+- **Libraries:** NumPy, Pandas
+- **Tools:** Git, GitHub, Excel
+- **Concepts:** Data Analysis, Python OOP
+
+## 📂 Projects
+- Student Marks Analysis
+
+## 🌱 Currently Learning
+- Machine Learning
+- SQL
+- Data Science
+
+## 🔗 Connect With Me
+- [LinkedIn](https://linkedin.com/in/swamini-jadhav-13a6323ba)
+- [GitHub](https://github.com/swaminijadhav2121)
+
+---
+⭐ Thanks for visiting my profile!
