@@ -28,8 +28,8 @@ I'm passionate about Data Science, Data Analytics, and using data to solve real-
 - Data Science
 
 ## 🔗 Connect With Me
-- [LinkedIn](https://linkedin.com/in/swamini-jadhav-13a6323ba)
-- [GitHub](https://github.com/swaminijadhav2121)
+- LinkedIn:-https://linkedin.com/in/swamini-jadhav-13a6323ba
+- GitHub:-https://github.com/swaminijadhav2121
 
 ---
 ⭐ Thanks for visiting my profile!
